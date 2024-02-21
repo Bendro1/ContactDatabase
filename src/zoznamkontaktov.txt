@@ -1,0 +1,10 @@
+
+6
+
+
+Contact{name='Jozef Bednar', phone='0950114523', mobile='0909111159', email='jozef.1bednar@gmail.com'}
+Contact{name='Ferko Radko', phone='0950445250', mobile='36522014', email='nema'}
+Contact{name='Jozef Bednar', phone='0950114523', mobile='', email='jozef.1bednar@gmail.com'}
+Contact{name='Ferko Radko', phone='', mobile='36522014', email='nema'}
+Contact{name='Jozef Bednar', phone='0950114523', mobile='', email='jozef.1bednar@gmail.com'}
+Contact{name='Ferko Radko', phone='', mobile='36522014', email='nema'}
